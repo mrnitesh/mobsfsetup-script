@@ -8,6 +8,9 @@ echo
 echo "Making your system Ready for mobsf installation."
 sudo apt-get install python3
 echo
+echo "installing pip3"
+sudo apt install python3-pip
+echo
 echo"Installing JDK"
 echo
 echo"installing dependencies"
