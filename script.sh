@@ -3,6 +3,8 @@
 # Date: 24/12/2019
 
 
+sudo apt-get -y update
+sudo apt-get -y upgrade
 echo "Installing Python3"
 echo
 echo "Making your system Ready for mobsf installation."
